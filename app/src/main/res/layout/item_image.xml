@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/image"
+    android:layout_width="300dp"
+    android:layout_height="220dp"
+    android:layout_marginStart="10dp"
+    android:scaleType="fitXY"
+    android:background="#B1B1B1" />
